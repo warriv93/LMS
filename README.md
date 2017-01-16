@@ -6,14 +6,17 @@ The LearningMadeSimple project was created during an internship at OddHill http:
 
 ##About the LearningMadeSimple
 The platform was built with the use of the framework AngularJS for the client side and NodeJS for the server side.
-We used Digitalocean to host the application during the development and now moved it to Heroku for demo purposes.
+
+We used Digitalocean to host the application during the development and later moved it to Heroku for demo purposes.
 
 ###API documentation can be found here:
 https://learningmadesimple.herokuapp.com/apidoc
 
 ###Link to running version of the application:
-test username: admin
-test password: admin
+Test username: admin
+
+Test password: admin
+
 https://learningmadesimple.herokuapp.com/login
 
 ![lms](http://simon.brasse-pc.eu/portfolio/images/lmsFront.jpg)
