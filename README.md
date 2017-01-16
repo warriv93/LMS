@@ -2,7 +2,7 @@
 An e-learning platform with focus on scalability, modularity and openness.
 
 ##Purpose
-LearningMadeSimple was an internship project at OddHill http://www.oddhill.se/
+The LearningMadeSimple project was created during an internship at OddHill http://www.oddhill.se/ located in Malmö, Sweden
 
 ##About the LearningMadeSimple
 The platform was built with the use of the framework AngularJS for the client side and NodeJS for the server side.
