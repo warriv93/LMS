@@ -13,18 +13,16 @@ We used Digitalocean to host the application during the development and later mo
 https://learningmadesimple.herokuapp.com/apidoc
 
 ### Link to running version of the application:
-Test student username: student
+Student info overview page: https://learningmadesimple.herokuapp.com/profile/student1
+Login page: https://learningmadesimple.herokuapp.com/login
 
-Test student password: student
+#### Test credentials
 
-Test teacher username: teacher
+Username  | Password
+------------- | -------------
+student  | student
+teacher  | teacher
+admin    | admin
 
-Test teacher password: teacher
-
-Test admin username: admin
-
-Test admin password: admin
-
-https://learningmadesimple.herokuapp.com/login
 
 ![lms](https://learningmadesimple.herokuapp.com/images/lmsFront.jpg)
